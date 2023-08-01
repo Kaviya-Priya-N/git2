@@ -1,0 +1,1 @@
+this file is created in git2 and belongs to newbranch2
